@@ -9,13 +9,13 @@ public class SpawnManager : MonoBehaviour
     private float spawnPosZ = 20;
     private float startDelay = 2;
     private float spawnInterval = 1.5f;
-    // Start is called before the first frame update
+    
     void Start()
     {
         InvokeRepeating("SpawnRandomAnimal", startDelay, spawnInterval);
     }
 
-    // Update is called once per frame
+
     void Update()
     {
 
@@ -24,7 +24,7 @@ public class SpawnManager : MonoBehaviour
     void SpawnRandomAnimal(){
         int animalIndex = Random.Range(0, animalsPrefabs.Length);
 
-        // Randomly generate animal index and spawn posotion
+        // Genera animales de mamnera aleatoria y una posicion aleatoira
         Vector3 spawnPos = new Vector3(Random.Range(-spawnRangeX, spawnRangeX), 
         0, spawnPosZ);
 

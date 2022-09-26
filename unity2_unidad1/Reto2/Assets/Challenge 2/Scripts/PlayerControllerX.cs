@@ -7,10 +7,9 @@ public class PlayerControllerX : MonoBehaviour
     public GameObject dogPrefab;
     private float cooldown = 1;
 
-    // Update is called once per frame
     void Update()
     {
-        // On spacebar press, send dog
+        // Cuando se presiona espcio se manda un perro
         if (Input.GetKeyDown(KeyCode.Space) && cooldown <= 0)
         {
             Instantiate(dogPrefab, transform.position, dogPrefab.transform.rotation);

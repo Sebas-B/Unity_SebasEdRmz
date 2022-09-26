@@ -8,21 +8,19 @@ public class PlayerControllerX : MonoBehaviour
     public float rotationSpeed;
     public float verticalInput;
 
-    // Start is called before the first frame update
     void Start()
     {
 
     }
 
-    // Update is called once per frame
     void FixedUpdate()
     {
-        // get the user's vertical input
+        // Obtiene la entrada vertical del usuario
         verticalInput = Input.GetAxis("Vertical");
 
         transform.Translate(Vector3.forward*Time.deltaTime* speed);
 
-        // tilt the plane up/down based on up/down arrow keys
+        // Lleva al avion hacia arriba/abajo con base a la flechas arriba/abajo
         transform.Rotate(Vector3.right * rotationSpeed * Time.deltaTime * verticalInput);
     }
 }

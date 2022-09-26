@@ -10,21 +10,20 @@ public class SpawnManagerX : MonoBehaviour
     private float spawnLimitXRight = 7;
     private float spawnPosY = 30;
 
-    // Start is called before the first frame update
     void Start()
     {
         SpawnRandomBall();
     }
 
-    // Spawn random ball at random x position at top of play area
+    // Hace aparecer una pelota de manera aleatoria en la posicion x y en una posicion diferente en la parte de arriba de la pantalla
     void SpawnRandomBall ()
     {
         int ballIndex = Random.Range(0, ballPrefabs.Length);
 
-        // Generate random ball index and random spawn position
+        // Generata una pelota aleatoria con posicion aleatoria
         Vector3 spawnPos = new Vector3(Random.Range(spawnLimitXLeft, spawnLimitXRight), spawnPosY, 0);
 
-        // instantiate ball at random spawn location
+        // Instancia una pelota en una posicion aleatoria
         Instantiate(ballPrefabs[ballIndex], spawnPos, ballPrefabs[ballIndex].transform.rotation);
         Invoke("SpawnRandomBall", Random.Range(2f, 4f));
     }
