@@ -16,7 +16,7 @@ Será del tipo auto scroll, el objetivo el llegar a un puntaje para avanzar al s
 
 ## Unity Learn
 
-**** Unit 1 ****
+**Unit 1**.
 ![Unidad 1](https://connect-prd-cdn.unity.com/20190515/learn/images/4d417a32-aba0-47e5-a57b-c56ea9548013_P1_1080pBanner.png.200x0x1.webp "Unidad 1")
 
 [Unit 1 - Player control](https://github.com/Sebas-B/Unity_SebasEdRmz/tree/main/unity1_unidad1/Leccion1/Assets)
@@ -26,7 +26,7 @@ Será del tipo auto scroll, el objetivo el llegar a un puntaje para avanzar al s
 [Unit 1 - Lab 1 Project Design Component](https://github.com/Sebas-B/Unity_SebasEdRmz/blob/main/unity1_unidad1/Lab1ProjectDesignDocument/Project%20Design%20Doc.pdf)
 
 
-**** Unit 2 ****
+**Unit 2**.
 ![Unidad 2](https://connect-prd-cdn.unity.com/20190516/learn/images/bf8d3473-c257-4b77-baec-74c0e35d554a_p21080pBanner.png.200x0x1.webp "Unidad 2")
 
 [Unit 2 - Basic Gameplay](https://github.com/Sebas-B/Unity_SebasEdRmz/tree/main/unity2_unidad1/Leccion2/Assets)
@@ -37,7 +37,7 @@ Será del tipo auto scroll, el objetivo el llegar a un puntaje para avanzar al s
 
 
 
-**** Unit 3 ****
+**Unit 3 **.
 ![Unidad 3](https://connect-prd-cdn.unity.com/20190606/learn/images/998f1459-9767-49af-a033-b1e52a38bc66_P31080pBanner__1_.png.200x0x1.webp "Unidad 3")
 
 [Unit 3 - Sound and effects](https://github.com/Sebas-B/Unity_SebasEdRmz/tree/main/unity3_unidad2/Leccion3/Assets)
@@ -46,7 +46,7 @@ Será del tipo auto scroll, el objetivo el llegar a un puntaje para avanzar al s
 
 
 
-**** Unit 5 ****
+**Unit 5**.
 ![Unidad 5](https://connect-prd-cdn.unity.com/20190606/learn/images/08de1b60-efa5-4f1d-8e33-50979f62e589_p51080pBanner__1_.png.200x0x1.webp "Unidad 5")
 
 [Unit 5 - User Interface](https://github.com/Sebas-B/Unity_SebasEdRmz/tree/main/unity5_unidad2/Leccion5/Assets)
