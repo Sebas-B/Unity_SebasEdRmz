@@ -3,6 +3,15 @@
 En este repositorio se subirán los assets de las lecciones 1 a 5 del curso "Create with code" de **Unity Learn**. 
 Como también se compartirán avances del juego sobre el que se estará trabajando de manera propia.
 
+Contenido
+---------
+
+-   [Introducción](#introducción)
+-   [Código Fuente](#código-fuente)
+-   [Planificación](#planificación)
+-   [Autores](#autores)
+-   [Copyright](#copyright)
+
 # Visión del juego "Last living cupcakes"
 
 Se trata de un juego donde el personaje principal es un zorro, el cual se enfrenta a hordas de cupcakes zombis. 
@@ -10,11 +19,11 @@ Será del tipo auto scroll, el objetivo el llegar a un puntaje para avanzar al s
 
 ![Visión del Juego](https://lh3.googleusercontent.com/39FIeCthrI0nvj4tjDiYemnjGhb62wie5w_7ef9SM1QBQsP8MQy2SP5-tKPiDMyIDLpry9jafl0HpwZXgMl3iYMpfH-Hqj07_M0qVVcQ46DT6cvXcq9r2-TA7m4JhBUleqVlXusM9is907FpKME2qAkMDn6fng4kPukoxZVJZhWTF_6z0eVpbVv3GRO1Tj56tQdrX45TxakcuTaVvpCQei6pOMWe9zIIIj3gne1FYUF4m2A9Y7DSgoyR7-0IeqXxGw5O8_XM6Vvg9cDLRuK7RNhMEsOYf3_DDGkGiqe7Yyl9a2i21Odh-AEQmxGXHbaZCFuGF-zDMt790GBst6eiT0ZVSjH_6lk5kGqLw_beEEvEwjkl6F8MNKxtLu2nT1u4Ut-WipHWnH_IbQCvObDeqane0UJotzBj7kxA_BHiOEoi8aDZg94E__J0rKeBPrA-qnVMEu7l3UBLOSbBdFzFPyHBzDoe5qlBnLSi-nJjMmSvlqZestl9n8o1F2qwqsCb6qRnKXXmvykvZyWBXHVmLRQffO9005Jii706RADxcmjbIm_0vB-wBQDQAfKVJclVokOUyOYKcSTcce6AqZ1mjVnla0xPH__gzT95IisuAyIEqUtqkxJAf62eB6gg2UWCzcR5RiJ50n9uwyyPijLp2kbLE9r8mHMhNnwz_Dhv58XuEcS65ReMQ62yN1FsnJvB2nESmEDbX-sAwVXYINqPyFcK5xpSFgxd5rxGeBjQV36guon_6iZeC7Whnn4ERGCF60Lu7nCI_y3nJkoHucvlYyBI8Ry8FMgAlbBpVNc44Y3sXK-gLW0A5zzB9ndeEICqSBxHoqOD3dLnDb1ElquPZ-4bEfdu687CQR9kP-tRVzZYOFVTrddhyVSehOJfTjHoBD4K4EoA1f3jrVG8PVxZZV8DZTluuMRaeAFZveCNqwgJ7nB8e5sjYoaFL5MrN-aOmP-N7ZIE7it_p_ffKOnw=w1539-h866-no?authuser=0 "Prototype")
 
-## Contribuidores
+# Contribuidores
 
 **Sebastian Eduardo Ramirez Bocanegra**
 
-## Unity Learn
+# Unity Learn
 
 **Unit 1**
 
@@ -71,8 +80,82 @@ Será del tipo auto scroll, el objetivo el llegar a un puntaje para avanzar al s
 
 [Unit 5 - Lab 5 Swap out your assets]()
 
+
+
 **Copyright**
 
 Derechos Reservados NoPediPermiso 2022
 
 
+# Creación de Video Juego
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
+
+  <p align="center">
+    Short description
+    <br>
+    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    ·
+    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+  </p>
+</p>
+
+
+## Contenido
+
+- [Introducción](#introducción)
+- [Código Fuente](#código-fuente)
+- [Planificación](#planificación)
+- [Autores](#autores)
+- [Copyright](#copyright)
+
+
+## Introducción
+
+- Nombre del proyecto
+- Objetivo.
+- Plataforma ,Género, Clasificación, Personajes, Escenario.
+- Historia
+- Personajes
+- Reglas de Juego.
+- Pantallas de Juego
+- Plan de creación de VideoJuego.
+
+## Código Fuente
+
+* Lección 1
+  * > Tutorial
+  * > Laboratorio
+  * > Desafío
+  * > Prueba
+* Lección 2
+  * > Tutorial
+  * > Laboratorio
+  * > Desafío
+  * > Prueba
+* Lección 3
+  * > Tutorial
+  * > Laboratorio
+  * > Desafío
+  * > Prueba
+* Lección 4
+  * > Tutorial
+  * > Laboratorio
+  * > Desafío
+  * > Prueba
+* Lección 5
+  * > Tutorial
+  * > Laboratorio
+  * > Desafío
+  * > Prueba
+* VideoJuego
+
+## Planificación
+
+![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
+
+## Autores
+Bill Gates & Steve Jobs
+
+## Copyright
+Derechos Reservados 2022
