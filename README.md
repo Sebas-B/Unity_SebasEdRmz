@@ -17,6 +17,13 @@ Contenido
 Se trata de un juego donde el personaje principal es un zorro, el cual se enfrenta a hordas de cupcakes zombis. 
 Será del tipo auto scroll, el objetivo el llegar a un puntaje para avanzar al siguiente nivel y evitar ser comido por los cupcakes.
 
+- **Nombre del proyecto:** "Last living cupcakes"
+- **Objetivo:** Conseguir un puntaje alto, evitar los cupcakes para lograr el siguiente nivel 
+- **Plataforma ,Género, Clasificación, Escenario:** PC, Aventura, Everyone, Bosque y Panteón
+- **Historia:** Eres un pequeño niño lobo, tu padre es un famoso panadero el cual su ambicion le jugo en contra, cometio un error ya ahora ese error viene por ti 
+- **Personajes:**  Link Zorro y Cupcakes zombies, Padre Link Zorro
+- **Reglas de Juego:** Evitar a los zombies, tomar las mejorar, lograr un puntaje alto para subir de nivel
+
 ![Visión del Juego](https://lh3.googleusercontent.com/39FIeCthrI0nvj4tjDiYemnjGhb62wie5w_7ef9SM1QBQsP8MQy2SP5-tKPiDMyIDLpry9jafl0HpwZXgMl3iYMpfH-Hqj07_M0qVVcQ46DT6cvXcq9r2-TA7m4JhBUleqVlXusM9is907FpKME2qAkMDn6fng4kPukoxZVJZhWTF_6z0eVpbVv3GRO1Tj56tQdrX45TxakcuTaVvpCQei6pOMWe9zIIIj3gne1FYUF4m2A9Y7DSgoyR7-0IeqXxGw5O8_XM6Vvg9cDLRuK7RNhMEsOYf3_DDGkGiqe7Yyl9a2i21Odh-AEQmxGXHbaZCFuGF-zDMt790GBst6eiT0ZVSjH_6lk5kGqLw_beEEvEwjkl6F8MNKxtLu2nT1u4Ut-WipHWnH_IbQCvObDeqane0UJotzBj7kxA_BHiOEoi8aDZg94E__J0rKeBPrA-qnVMEu7l3UBLOSbBdFzFPyHBzDoe5qlBnLSi-nJjMmSvlqZestl9n8o1F2qwqsCb6qRnKXXmvykvZyWBXHVmLRQffO9005Jii706RADxcmjbIm_0vB-wBQDQAfKVJclVokOUyOYKcSTcce6AqZ1mjVnla0xPH__gzT95IisuAyIEqUtqkxJAf62eB6gg2UWCzcR5RiJ50n9uwyyPijLp2kbLE9r8mHMhNnwz_Dhv58XuEcS65ReMQ62yN1FsnJvB2nESmEDbX-sAwVXYINqPyFcK5xpSFgxd5rxGeBjQV36guon_6iZeC7Whnn4ERGCF60Lu7nCI_y3nJkoHucvlYyBI8Ry8FMgAlbBpVNc44Y3sXK-gLW0A5zzB9ndeEICqSBxHoqOD3dLnDb1ElquPZ-4bEfdu687CQR9kP-tRVzZYOFVTrddhyVSehOJfTjHoBD4K4EoA1f3jrVG8PVxZZV8DZTluuMRaeAFZveCNqwgJ7nB8e5sjYoaFL5MrN-aOmP-N7ZIE7it_p_ffKOnw=w1539-h866-no?authuser=0 "Prototype")
 
 # Contribuidores
