@@ -1,3 +1,26 @@
+Creación de Video Juego
+=======================
+
+```{=html}
+<p align="center">
+```
+`<img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>`{=html}
+
+```{=html}
+<p align="center">
+```
+Short description `<br>`{=html}
+`<a href="https://reponame/issues/new?template=bug.md">`{=html}Report
+bug`</a>`{=html} ·
+`<a href="https://reponame/issues/new?template=feature.md&labels=feature">`{=html}Request
+feature`</a>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+</p>
+```
+
 # Unity_SebasEdRmz
 
 En este repositorio se subirán los assets de las lecciones 1 a 5 del curso "Create with code" de **Unity Learn**. 
