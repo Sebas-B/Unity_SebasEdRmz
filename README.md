@@ -30,7 +30,7 @@ Será del tipo auto scroll, el objetivo el llegar a un puntaje para avanzar al s
 - **Personajes:**  Link Zorro y Cupcakes zombies, Padre Link Zorro
 - **Reglas de Juego:** Evitar a los zombies, tomar las mejorar, lograr un puntaje alto para subir de nivel
 
-![Visión del Juego](https://lh3.googleusercontent.com/29qQphAMQGM2qAgOAO2k8fJksvef-ipkXcr3q0_HqSOGIyV9lXs3M4aIFstrK82AIz0L7UFKd1ZLaKap4Q_W--xcIfMCzb1QTZjBou_yiT-P23S1dGyR1UMBptyBKumgC5JM2VuPo5mde-9_pYIVFHZ8WgBinvsZq1vhWbKU67CW9QhmOx0Gtox8-0ZPfs0ikvCWwoyx-ckf2OTV9ByxbRbCGMue0DXa2pHNx0xlLf7ueIarvwmBPM4j08hwlR4mCq1HzqSe6y9thurMVlxkPds8hBkMhAye-GPKE8GvKvYRhpukfCAOmYpSXa_nqLyMOnJWFvkJeBz-M_RcAtWVCsSCZkWMcdzacnRAqe8ZTtm9Ip18K_S3CD0yxDHIwJ6YEgDz4AC4-X5YVfyKupRIFJCQoRcjTUD6m6ZzesFA4fmfa6TlETr4FNWf_R5vLoY8-6P-Xl5UCWiZp-P1oxGGYiNLiAyXH-o-Rm2PJXcaz2hlS5b09zKgUWHTp797s1d0DGiZADDvESdfMOgCt9Z5a8O5lH4rlO417h3tCWqG7gMUJUc3XKRVV-Pg7UyIG5kCuXMnNE2NT-q6SX5MSTnwptM5EN95B2g608z3LrBWrDSXIFdBY0QJR9IgCO6fZ3W929PCtWuJIzTCplZFWcymscU_uGdHUH8h_imuXQoV548MxNAfV1ZcsAjYKX6Aw0_1nSB59IZLkHGaXVnigHY6G-_1G4DowZemtSnGK3hm95zChJpvJze26EEqmRwEThxbircAskUBmrc9x5ZQDDabLsrG2_seO9BLJLNTNRd9GYWg5vbY3__fbHUr5Q5QNbcyMd_1cRGnJBevkjSMMBtEJHB_bfVe0_qUJ4qBPLdtinbFBwGS-uvOTbjX91x1_QTDreu3tfs_4ltRSwNzhe2rt0Tk31lF0Uux3y0jPw23aoXNAnEinFE08MCc6_OS4SjYoU5W9Pa6WibkpvNDeKVy=w1539-h866-no?authuser=0 "Prototype")
+![Visión del Juego](https://photos.app.goo.gl/zvv8kmVxY7YMk1yJA "Prototype")
 
 # Contribuidores
 
