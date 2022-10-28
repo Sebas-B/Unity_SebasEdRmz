@@ -117,5 +117,5 @@ Será del tipo auto scroll, el objetivo el llegar a un puntaje para avanzar al s
 
 # Copyright
 
-Derechos Reservados NoPediPermiso 2022
+Derechos Reservados NoPediPermiso en Asociacion con Sebastian Ramirez ;) 2022
 
