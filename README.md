@@ -30,14 +30,15 @@ Será del tipo auto scroll, el objetivo el llegar a un puntaje para avanzar al s
 - **Plataforma ,Género, Clasificación, Escenario:** PC y Web, Aventura/Acción, Everyone, Bosque y Panteón, el juego tiene una vista 2D pero con elementos en 3D
 - **Historia:** Eres un pequeño niño lobo, tu padre es un famoso panadero el cual su ambicion le jugo en contra, cometio un error ya ahora ese error viene por ti 
 - **Personajes:**  Link Zorro y Cupcakes zombies, Padre Link Zorro
+- **Sonidos:** Se encuentran musica ambiental, asi como sonidos de fondo, sonidos de bonificación, sonidos de los enemigos, sonidos del jugador
 - **Reglas de Juego:** 
-- 1. Cada vez que el zombie te toca pierdes un corazon
-- 2. Tomar las mejoraras
-- 3. Solo se puede saltar mas de una vez
-- 4. Las mejoras tienen tiempo limite
-- 5. Solo puedes atacar cierta cantidad de tiempo
-- 6. Si tus vidas son igual a 0 el juego termina
-- 7. Si encuentras un corazon tu vida aumenta 1, si ya tienes 3 no se agregara nada
+    1. Cada vez que el zombie te toca pierdes un corazon
+    2. Tomar las mejoraras
+    3. Solo se puede saltar mas de una vez
+    4. Las mejoras tienen tiempo limite
+    5. Solo puedes atacar cierta cantidad de tiempo
+    6. Si tus vidas son igual a 0 el juego termina
+    7. Si encuentras un corazon tu vida aumenta 1, si ya tienes 3 no se agregara nada
 
 ![Visión del Juego](https://github.com/Sebas-B/sample_project/blob/main/unityImg/taller%20de%20chocolate.jpg "Prototype")
 
