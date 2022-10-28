@@ -1,7 +1,7 @@
-Creación de Video Juego
+Creación de VideoJuego
 =======================
 
-![Portada](https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg)
+![Portada](https://github.com/Sebas-B/sample_project/blob/main/unityImg/Dise%C3%B1o%20sin%20t%C3%ADtulo.png)
 
 
 # Unity_SebasEdRmz
