@@ -30,7 +30,7 @@ Será del tipo auto scroll, el objetivo el llegar a un puntaje para avanzar al s
 - **Personajes:**  Link Zorro y Cupcakes zombies, Padre Link Zorro
 - **Reglas de Juego:** Evitar a los zombies, tomar las mejorar, lograr un puntaje alto para subir de nivel
 
-![Visión del Juego]([https://photos.app.goo.gl/zvv8kmVxY7YMk1yJA](https://github.com/Sebas-B/sample_project/blob/main/unityImg/taller%20de%20chocolate.jpg) "Prototype")
+![Visión del Juego](https://github.com/Sebas-B/sample_project/blob/main/unityImg/taller%20de%20chocolate.jpg "Prototype")
 
 # Contribuidores
 
