@@ -79,11 +79,11 @@ Será del tipo auto scroll, el objetivo el llegar a un puntaje para avanzar al s
 
 ![Unidad 4](https://connect-prd-cdn.unity.com/20190606/learn/images/3c9ad8f0-9f2c-4265-806e-1baaed1fa8a3_p41080pBanner__1_.png.200x0x1.webp "Unidad 4")
 
-[Unidad 4(No completado)]()
+[Unidad 4](https://github.com/Sebas-B/Unity_SebasEdRmz/tree/main/Unity4_unidad2/Leccion4)
 
 [Unit 4 - Lab(No completado)]()
 
-[Unit 4 - Challenge 4(No completado)]()
+[Unit 4 - Challenge 4](https://github.com/Sebas-B/Unity_SebasEdRmz/tree/main/Unity4_unidad2/Challenge4)
 
 ![Unit 4 - Prueba 4](https://github.com/Sebas-B/sample_project/blob/main/unityImg/quiz4.PNG)
 
