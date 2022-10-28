@@ -23,7 +23,7 @@ Contenido
 Se trata de un juego donde el personaje principal es un zorro, el cual se enfrenta a hordas de cupcakes zombis. 
 Será del tipo auto scroll, el objetivo el llegar a un puntaje para avanzar al siguiente nivel y evitar ser comido por los cupcakes.
 
-"El protagonista es un zorro llamado Link. Link es un zorro inteligente y astuto que vive en un bosque. Un día, Timo se da cuenta de que una banda de cupcakes está atacando a su bosque. Timo sabe que los cupcakes son malvados y que deben ser detenidos. Timo se embarca en una misión para detener a los cupcakes y salvar el bosque y su padre."
+"El protagonista es un zorro llamado Link. Link es un zorro inteligente y astuto que vive en un bosque. Un día, Timo se da cuenta de que una banda de cupcakes está atacando a su bosque. Timo sabe que los cupcakes son malvados y que deben ser detenidos. Link se embarca en una misión para detener a los cupcakes y salvar el bosque y su padre."
 
 - **Nombre del proyecto:** "Last living cupcakes"
 - **Objetivo:** El jugador debe controlar a un personaje usando el mando para moverlo dentro de un escenario el objetivo es, conseguir un puntaje alto para pasar de   nivel llegando a cierto punaje se pasa al siguiente nivel, para ganar puntos tienes que evitar los cupcakes o eliminarlos, tambien puedes conseguir mejoras dentro   del juego las cuales pueds evitar o tomarlas como ayuda para facilitar tu aventura. 
