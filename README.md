@@ -26,7 +26,7 @@ Será del tipo auto scroll, el objetivo el llegar a un puntaje para avanzar al s
 "El protagonista es un zorro llamado Link. Link es un zorro inteligente y astuto que vive en un bosque. Un día, Timo se da cuenta de que una banda de cupcakes está atacando a su bosque. Timo sabe que los cupcakes son malvados y que deben ser detenidos. Link se embarca en una misión para detener a los cupcakes y salvar el bosque y su padre."
 
 - **Nombre del proyecto:** "Last living cupcakes"
-- **Objetivo:** El jugador debe controlar a un personaje usando el mando para moverlo dentro de un escenario el objetivo es, conseguir un puntaje alto para pasar de   nivel llegando a cierto punaje se pasa al siguiente nivel, para ganar puntos tienes que evitar los cupcakes o eliminarlos, tambien puedes conseguir mejoras dentro   del juego las cuales pueds evitar o tomarlas como ayuda para facilitar tu aventura. 
+- **Objetivo:** El jugador debe controlar a un personaje usando el mando para moverlo dentro de un escenario el objetivo es, conseguir un puntaje alto para pasar de   nivel llegando a cierto puntaje se pasa al siguiente nivel, para ganar puntos tienes que evitar los cupcakes o eliminarlos, tambien puedes conseguir mejoras dentro   del juego las cuales pueds evitar o tomarlas como ayuda para facilitar tu aventura. 
 - **Plataforma ,Género, Clasificación, Escenario:** PC y Web, Aventura/Acción, Everyone, Bosque y Panteón, el juego tiene una vista 2D pero con elementos en 3D
 - **Historia:** Eres un pequeño niño lobo, tu padre es un famoso panadero el cual su ambicion le jugo en contra, cometio un error ya ahora ese error viene por ti 
 - **Personajes:**  Link Zorro y Cupcakes zombies, Padre Link Zorro
