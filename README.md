@@ -113,7 +113,9 @@ Será del tipo auto scroll, el objetivo el llegar a un puntaje para avanzar al s
 
 # Planificación
 
-![Planificacion](https://github.com/Sebas-B/sample_project/blob/main/unityImg/Captura.PNG)
+![Planificacion](https://raw.githubusercontent.com/Sebas-B/sample_project/main/unityImg/TableroPlaneacion.png)
+
+Link Tablero: https://trello.com/invite/b/IETxdHe4/ATTI9bdddb690866944d0131ed5cbe7ad479BE175CFB/last-living-cupcakes
 
 # Copyright
 
